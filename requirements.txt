@@ -3,4 +3,7 @@ pandas
 fredapi
 yfinance
 numpy
-gunicorn  # for deployment
+gunicorn
+plotly
+requests
+

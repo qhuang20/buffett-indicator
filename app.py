@@ -129,8 +129,10 @@ def get_current_ratio():
     current_market_cap = get_current_market_cap()
     return (current_market_cap / latest_gdp) * 100  # As percentage
 
+
 # Initialize Dash app
 app = dash.Dash(__name__)
+server = app.server  # Add this line for deployment
 
 # Define app layout
 app.layout = html.Div([
