@@ -2,6 +2,10 @@
 
 A real-time dashboard showing the Buffett Indicator (Total US Market Cap to GDP ratio) with trend analysis.
 
+## Live Dashboard
+Visit the live dashboard: [Buffett Indicator](https://your-app-url.onrender.com)
+
+
 ## Features
 - Real-time market cap data from Yahoo Finance
 - GDP data from FRED
