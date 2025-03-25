@@ -3,7 +3,7 @@
 A real-time dashboard showing the Buffett Indicator (Total US Market Cap to GDP ratio) with trend analysis.
 
 ## Live Dashboard
-Visit the live dashboard: [Buffett Indicator](https://your-app-url.onrender.com)
+Visit the live dashboard: [Buffett Indicator](https://buffett-indicator.onrender.com) 
 
 
 ## Features
